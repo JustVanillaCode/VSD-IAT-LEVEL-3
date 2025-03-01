@@ -9,4 +9,3 @@
 [Day 4]{https://github.com/JustVanillaCode/VSD-IAT-LEVEL-3/blob/main/DAY%204}
 
 [Day 5]{https://github.com/JustVanillaCode/VSD-IAT-LEVEL-3/blob/main/DAY%205}
-https://github.com/JustVanillaCode/VSD-IAT-LEVEL-3/blob/main/DAY%201
