@@ -3,7 +3,7 @@ It is as follows :-
 
 ![image](Screenshot 2024-03-20 163324.png7)
 
-A chip is inside a cover also called a package.
+../ A chip is inside a cover also called a package.
  There are many types of packages, they are also available in many materials like plastic. This package is mounted on a board-like structure. One popular example of a board is the Arduino board. The chip will have various components one of the important components are pads. It can be imagined as a path where signals can come in and out. Signals can be sent inside the chip and the signals can also come out of the chip. The 2 other main parts of the chip are the die and the core. The logic lies solely in the core, logic like gates like and, or, not gates e.t.c, a core usually consists of the SoC, SRam, Adc, Dac, Pill, Spi, and a couple of more components. The pills, ADCS, DAC, and Sram are the "Foundry IPs' " of a chip, gadgets like Mobile Phones, laptops, and their performance are all dependent on the IPs'.Die is just simply the size of the chip. A foundry is a large, extensive, colossal factory that helps manufacturing. It fundamentally manufactures the ICs' (Integrated Circuits) or the chips. An IP stands for 'Intellectual Property ' which means it mandates a particular intelligence to build the particular block. A foundry plays an essential role in the semiconductor industry. One of them is also present in IIT Bombay, India.
 
   Usually, chips are coded in C or C++ languages  as they are more suitable for this process. This code is passed into a compiler and is converted into binary as it is the
